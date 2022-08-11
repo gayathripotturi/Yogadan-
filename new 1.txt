@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<HTML>
+<BODY bgcolor="" background="" text="red" topmargin="20px" leftmargin="50px" link="green"
+alink="red" vlink="yellow">
+<a href="https://www.vit.ac.in">click link</a>
+<P name="p1" id="id1" align="justify">Here is <big><big><big><big>s</big></big></big></big>
+ome Here is sometext Here is some text Here is some text Here is some text Here is some 
+text Here is some text Here is some text Here is some text Here is some text Here is some 
+text Here is some text Here is some text Here is some text Here is some text Here is some 
+textHere is some text Here is some text Here is some text Here is some text text Here is 
+some text Here is some text Here is some text Here is some text Here is some text Here is 
+some text Here is some textHere is some text Here is some text Here is som
+<small><small><small>e</small></small></small>
+</P>
+<br>
+<P name="p2" id="id2" align="center"> Centered <br><br>text Centered text Centered text 
+Centered textCentered text Centered textCentered textCentered textCentered textCentered 
+textCentered textCentered textCentered textCentered textCentered textCentered textCentered 
+textCentered textCentered!<br> textCentered textCentered textCentered text</P>
+<P name="p3" id="id3" align="right"> Right-justified text Right-justified text 
+Right-justified text Right-justified text Right-justified text Right-justified text 
+Right-justified text Right-justified text Right-justified text Right-justified text 
+Right-justified text Right-justified text Right-justified text Right-justified text 
+Right-justified text
+</p>
+<hr width="100" align="center"><br>
+<hr size="5%"><br>
+<FONT COLOR="red" SIZE="4" FACE="Arial">
+This is the text of line one </FONT><br>
+<FONT COLOR="#87af3f" SIZE="7" FACE="Times New Roman">
+This is the text of line one </FONT>
+<p> We’ve made this word three times <big>bigger</big> by nesting it inside three sets of 
+big tags.</p>
+<p>
+<font size="5">We’ve made this word three times
+<small><small>smaller</small></small> by
+nesting it inside three sets of small tags.</font>
+</p>
+<hr> Use 
+<hr align=right width=25 > Them 
+<hr align=center width=25> center line
+<hr align=center size=15 width=30> size lin
+</BODY></HTML>

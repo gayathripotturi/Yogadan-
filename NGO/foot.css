@@ -1,0 +1,145 @@
+
+.main_footer {
+background-image:url(footer-background.jpg);
+background-position:center;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:cover;
+height: 299px;
+width: 100%;
+position: absolute;
+top: 240%;
+left: 0%;
+right: 0%;
+bottom: 0%;
+background-color:#28282B;
+}
+.first_section
+{
+width: 32%;
+float: left;
+height: 100%;
+text-align:center;
+}
+
+.second_section
+{
+width: 32%;
+height: 100%;
+float: left;
+text-align:center;
+}
+.third_section
+{
+width: 32%;
+height: 100%;
+float: left;
+text-align:center;
+}
+
+.second_section ul li
+{
+list-style:none;
+}
+
+.second_section ul li a{
+text-decoration:none;
+font-size:18px;
+color:white;
+letter-spacing:2px;
+}
+.social_links_ul li{
+display:inline-block;
+color:red;
+font-size:25px;
+position:relative;
+
+display:flex;
+transform:translate(-50%,-50%);
+float:left;
+letter-spacing:4px;
+font-size:35px; 
+width:70px;
+height:1px;
+text-align:center;
+margine:5px;
+
+}
+.link-area li{
+padding:5px 5px 5px 0;
+list-style:none;
+}
+.link-area li a{
+
+color:#ddd;
+text-align:center;
+
+}
+
+.link_area{
+padding-bottom:2px;
+margin-left:40px;
+position:relative;
+
+}
+
+.first_section ul{
+	margin:0px;
+	padding:0px;
+}
+
+.first_section ul li{
+	list-style-type:none;
+}
+.first_section ul li p{
+	font-size:18px;
+	color:#fff;
+	text-decoration:none;
+	
+	
+}
+
+
+
+.footer-social-icons ul{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	padding-top:30px;
+}
+.footer-social-icons ul li{
+	display:inline-block;
+	margin-right:2px;
+	width:45px;
+	height:42px;
+	text-align:center;
+	border-radius:100%;
+}
+.footer-social-icons ul li a{
+color:#fff;
+dsiplay:block;
+font-size:22px;
+text-shadow:0px 0px 5px rgba(0,0,0,0.75);
+}
+.footer-social-icons ul li a i{
+	line-height:40px;
+}
+.footer-social-icons ul li:nth-child(1){
+	background:#3b5998;
+}
+.footer-social-icons ul li:nth-child(2){
+	background:#1da1f2;
+}
+.footer-social-icons ul li:nth-child(3){
+	background:#c32aa3;
+}
+.footer-social-icons ul li:nth-child(4){
+	background:#25d366;
+}
+.footer-social-icons ul li:nth-child(5){
+	background:#db4437;
+}
+.footer-social-icons ul li:nth-child(6){
+	background:#ff0000;
+}
+

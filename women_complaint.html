@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tour & Travel</title>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;700&display=swap" rel="stylesheet">
+	<style type="text/css">
+		body{
+			background-image: url(images/contact.webp);
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		a{
+			font-family: Comfortaa;
+			font-weight: 700;
+			float: left;
+			width: 200px;
+			height: 50px;
+			color: white;
+			font-size: 20px;
+			background-color: #9400D3;
+			padding-top: 20px;
+			text-align: center;
+			text-decoration: none;
+			opacity: 0.5;
+		}
+		a:hover{
+			background-color: #FF00FF;
+			box-shadow: 10px 5px 5px red;
+		}
+		.head{
+			
+			margin-top: 40px;
+			margin-left: 20%;
+		}
+		h2{ 
+
+			border:3px solid yellow;
+			border-radius: 10px;
+			font-family: Comfortaa;
+			font-weight: 300;
+			font-size: 40px;
+			float: left;
+			margin-top: 300px;
+			margin-left: 450px;
+		}
+		table{
+			background-color: black;
+			width: 750px;
+			float:left;
+			margin-top: 50px;
+			margin-left: 300px;
+			border: 2px solid yellow;
+			border-radius: 20px;
+		}
+		.mytext{
+			font-family: Comfortaa;
+			font-size: 20px;
+			width:700px;
+			height: 30px;
+			padding: 10px;
+			outline: none;
+			border:none;
+			border-bottom: 1px solid red;
+
+		}
+		.btn{
+			width:400px;
+			height: 30px;
+			border: 1px solid;
+			border-radius: 20px;
+			background-color: orange;
+		}
+		.btn:hover{
+			background-color: green;
+		}
+
+		textarea{
+			font-family: Comfortaa;
+			font-size: 20px;
+			width: 700px;
+			height: 180px;
+			border:none;
+			border-left: 1px solid red;
+		}
+		
+	</style>
+</head>
+<body>
+	
+    <form action="women_complaint_insert.php" method="post">
+    	<table>
+    		
+    	
+    	<tr><th><textarea name="complaint_msg" placeholder="Enter the Complaint"></textarea></th></tr>
+    	<tr><th><input class="btn" type="submit" name="submit"></th></tr>
+    	</table>
+    </form>
+</body>
+</html>
